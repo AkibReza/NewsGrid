@@ -59,10 +59,11 @@
   .page-container > *:first-child{
     grid-row: 1;
   }
-
-
 }
 
 
+h1,h2,h3{
+  text-align: center;
+}
 
 
